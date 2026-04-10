@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 ARUP HALDER 💀  
+# 💀 ATANU HALDER 💀  
 ### 🔐 Cybersecurity Enthusiast | Ethical Hacker | Bug Bounty Hunter  
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Think+Like+a+Hacker;Defend+Like+a+Professional;Breaking+Systems+to+Secure+Them;Cybersecurity+%7C+Bug+Bounty+%7C+OSINT" />
@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-👋 Hi, I'm **Arup Halder**  
+👋 Hi, I'm **ATANU Halder**  
 🔐 **Cybersecurity Enthusiast | Ethical Hacker**  
 🛡️ Passionate about **securing systems, finding vulnerabilities & ethical hacking**  
 💻 Learning • Building • Breaking • Securing  
@@ -97,9 +97,6 @@
 
 ## 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BjUCpVTds/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__am__aruphalder)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aruphalder7694)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:invisiblenotexit@proton.me)
 
 ---
