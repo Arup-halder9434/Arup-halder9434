@@ -103,15 +103,15 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Arup-halder9434&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Arup-halder9434&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arup-halder9434&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Atanu-halder9434&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Atanu-halder9434&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu-halder9434&theme=dark&hide_border=true&layout=compact)
 
 ---
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Arup-halder9434&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Atanu-halder9434&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
 
