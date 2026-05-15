@@ -100,18 +100,21 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:invisiblenotexit@proton.me)
 
 ---
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Atanu-halder9434&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Atanu-halder9434&theme=dark&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=Atanu-halder9434&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu-halder9434&theme=dark&hide_border=true&layout=compact)
 
 ---
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Atanu-halder9434&icon=5&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Atanu-halder9434&style=flat-square&color=blueviolet)
+
+</div>
 
 </div>
 
