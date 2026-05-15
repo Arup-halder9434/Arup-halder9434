@@ -109,7 +109,35 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu-halder9434&theme=dark&hide_border=true&layout=compact)
 
 ---
+## 📈 Repository Insights
 
+<table align="center">
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atanu-halder9434&theme=tokyonight"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atanu-halder9434&theme=tokyonight"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atanu-halder9434&theme=tokyonight"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atanu-halder9434&theme=tokyonight&utcOffset=6"/>
+
+</td>
+</tr>
+</table>
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Atanu-halder9434&style=flat-square&color=blueviolet)
