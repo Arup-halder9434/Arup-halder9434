@@ -145,14 +145,37 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Atanu-halder9434&theme=radical&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Atanu-halder9434&theme=radical)
 
 </div>
 
 ---
+
+## 📅 Contribution Graph
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Atanu-halder9434&style=flat-square&color=blueviolet)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atanu-halder9434&theme=github-compact&hide_border=true&area=true&custom_title=Atanu%20Halder%20Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Snake Animation
+
+<div align="center">
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Atanu-halder9434&color=brightgreen)
 
 </div>
 
