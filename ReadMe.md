@@ -138,6 +138,16 @@
 </td>
 </tr>
 </table>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Atanu-halder9434&theme=matrix&no-frame=true&no-bg=true&margin-w=10)
+
+</div>
+
+---
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Atanu-halder9434&style=flat-square&color=blueviolet)
