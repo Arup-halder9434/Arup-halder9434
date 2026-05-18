@@ -175,7 +175,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Atanu-halder9434&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Atanu-halder9434&color=blueviolet)
 
 </div>
 
