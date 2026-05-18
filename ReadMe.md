@@ -11,17 +11,6 @@
 
 ---
 
-<div align="center">
-
-# 💀 ATANU HALDER 💀  
-### 🔐 Cybersecurity Enthusiast | Ethical Hacker | Bug Bounty Hunter  
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Think+Like+a+Hacker;Defend+Like+a+Professional;Breaking+Systems+to+Secure+Them;Cybersecurity+%7C+Bug+Bounty+%7C+OSINT" />
-
-</div>
-
----
-
 ## 💫 About Me
 
 👋 Hi, I'm **ATANU Halder**  
